@@ -5,8 +5,7 @@ class ChattyStudent < Student
   end
 
   def raise_hand
-   super
-  puts 10.times
+   super.9.times
   end
 
 end
